@@ -1,4 +1,6 @@
-eby-overlay
+gentoo-overlay
 ===========
 
 custom gentoo ebuilds for layman
+
+
